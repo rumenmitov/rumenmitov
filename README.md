@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rumenmitov
 - 👀 I’m interested in coding && creative writing
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Rust 🦀
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 rumenmitov@protonmail.com
 
