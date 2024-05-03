@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 rumenmitov@protonmail.com
 
-[![Rumen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumenmitov&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Rumen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumenmitov&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
