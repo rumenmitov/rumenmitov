@@ -1,5 +1,18 @@
-- 👋 Hi, I’m @rumenmitov
-- 👀 I’m interested in coding && creative writing
-- 🌱 I’m currently learning Rust 🦀
-- 💞️ I’m looking to collaborate on some interesting projects
-- 📫 rumenmitov@protonmail.com
+ /$$$$$$$                                                    /$$      /$$ /$$   /$$                         
+| $$__  $$                                                  | $$$    /$$$|__/  | $$                         
+| $$  \ $$ /$$   /$$ /$$$$$$/$$$$   /$$$$$$  /$$$$$$$       | $$$$  /$$$$ /$$ /$$$$$$    /$$$$$$  /$$    /$$
+| $$$$$$$/| $$  | $$| $$_  $$_  $$ /$$__  $$| $$__  $$      | $$ $$/$$ $$| $$|_  $$_/   /$$__  $$|  $$  /$$/
+| $$__  $$| $$  | $$| $$ \ $$ \ $$| $$$$$$$$| $$  \ $$      | $$  $$$| $$| $$  | $$    | $$  \ $$ \  $$/$$/ 
+| $$  \ $$| $$  | $$| $$ | $$ | $$| $$_____/| $$  | $$      | $$\  $ | $$| $$  | $$ /$$| $$  | $$  \  $$$/  
+| $$  | $$|  $$$$$$/| $$ | $$ | $$|  $$$$$$$| $$  | $$      | $$ \/  | $$| $$  |  $$$$/|  $$$$$$/   \  $/   
+|__/  |__/ \______/ |__/ |__/ |__/ \_______/|__/  |__/      |__/     |__/|__/   \___/   \______/     \_/ 
+
+
+🌐 [Portfolio](https://rumenmitov.github.io/portfolio)
+
+**Latest (completed) Porject**: [XML Interpreter, Rust](https://github.com/rumenmitov/xml_interpreter)
+
+**Currently Working On:** [2D Game (no game engine), C++](https://github.com/rumenmitov/kingdom_of_etherea)
+
+
+
