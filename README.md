@@ -15,9 +15,9 @@
 
 🌐 [Portfolio](https://rumenmitov.github.io/portfolio)
 
-🏁 **Latest (completed) Project**: ......................[XML Interpreter, Rust](https://github.com/rumenmitov/xml_interpreter)
+🏁 Latest (completed) Project: ......................[XML Interpreter, Rust](https://github.com/rumenmitov/xml_interpreter)
 
-🎯 **Currently Working On Personal Project:** ...........[2D Game (no game engine), C++](https://github.com/rumenmitov/kingdom_of_etherea)
+🎯 Currently Working On Personal Project: ...........[2D Game (no game engine), C++](https://github.com/rumenmitov/kingdom_of_etherea)
 
 
 
